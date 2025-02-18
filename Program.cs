@@ -1,2 +1,3 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+double p = 11.0;
+Console.WriteLine($"Hello, World! Part {p}");
